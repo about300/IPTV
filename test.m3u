@@ -154,7 +154,7 @@ http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" tvg-id="129" tvg-name="TVB经典台" group-title="港澳及国外",千禧經典台
 http://192.168.2.1:1111/77.ts
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港澳及国外",无线新闻台
-http://192.168.2.1:1111/78.ts
+http://162.19.247.76:22222/live/tvbnews/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" tvg-id="133" tvg-name="无线财经" group-title="台湾",无线财经体育资讯台
 http://192.168.2.1:1111/79.ts
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
@@ -174,7 +174,7 @@ http://192.168.2.1:1111/86.ts
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-id="412" tvg-name="HKS" group-title="港澳及国外",香港卫视
 http://192.168.2.1:1111/87.ts
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-id="416" tvg-name="J2" group-title="港澳及国外",J2
-http://192.168.2.1:1111/88.ts
+http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" tvg-id="427" tvg-name="国家地理野生频道" group-title="港澳及国外",国家地理野生频道
 http://192.168.2.1:1111/89.ts
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mezzo.png" tvg-id="468" tvg-name="MEZZOLIVEHD" group-title="港澳及国外",MEZZO LIVE HD
