@@ -1,20 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳及国外",翡翠台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/TVBfeicui.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳及国外",翡翠台
 http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳及国外",明珠台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/TVBmingzhu.png" tvg-id="127" tvg-name="明珠台" group-title="港澳及国外",明珠台
 http://r.jdshipin.com/ZQ4kN
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港澳及国外",无线新闻台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港澳及国外",无线新闻台
 https://pull-l3-cny.douyincdn.com/live/stream-1452172023043011035.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
 http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="港澳及国外",凤凰卫视资讯台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="港澳及国外",凤凰卫视资讯台
 http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳及国外",凤凰卫视香港台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳及国外",凤凰卫视香港台
 http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" tvg-id="7118" tvg-name="香港开电视" group-title="港澳及国外",香港开电视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/hongkongkai.png" tvg-id="7118" tvg-name="香港开电视" group-title="港澳及国外",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/RTHK.png" tvg-id="7200" tvg-name="RTHK31" group-title="港澳及国外",RTHK
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/RTHK.png" tvg-id="7201" tvg-name="RTHK32" group-title="港澳及国外",RTHK
 http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/Guangzhou_Television_Logo.png" tvg-id="7202" tvg-name="广州" group-title="地方台",广州
+https://aplays.gztv.com/sec/zhonghes.m3u8?auth_key=1683855920-0-0-bba3dcebac47f5dfbfe97171d48a4b11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/Guangzhou_Television_Logo.png" tvg-id="7203" tvg-name="广州新闻台" group-title="地方台",广州新闻台
+https://aplays.gztv.com/sec/xinwen.m3u8?auth_key=1683855995-0-0-f32960576d9eb6fa23fc2f7d6cb6161d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/Guangzhou_Television_Logo.png" tvg-id="7204" tvg-name="广州法制台" group-title="地方台",广州法制台
+https://aplays.gztv.com/sec/fazhi.m3u8?auth_key=1683856605-0-0-18c97482cdbb1cc4aa067f14f4f5d03a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/Guangzhou_Television_Logo.png" tvg-id="7205" tvg-name="广州影视台" group-title="地方台",广州影视台
+https://aplays.gztv.com/sec/yingshi.m3u8?auth_key=1683856665-0-0-b500164498f454bceb48affabf24010b
