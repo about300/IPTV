@@ -6,7 +6,7 @@ http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/TVBJ2.png" tvg-id="128" tvg-name="J2" group-title="港澳及国外",J2
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港澳及国外",无线新闻台
-http://162.19.247.76:22222/live/tvbnews/index.m3u8
+http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
 http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="港澳及国外",凤凰卫视资讯台
