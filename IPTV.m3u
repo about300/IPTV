@@ -8,9 +8,9 @@ http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港澳及国外",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
-http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-165dc5f7-0550-4234-8a46-3bbfc3abebfc.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="港澳及国外",凤凰卫视资讯台
-http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
+http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳及国外",凤凰卫视香港台
 http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/about300/IPTV/main/logo/hongkongkai.png" tvg-id="7118" tvg-name="香港开电视" group-title="港澳及国外",香港开电视
